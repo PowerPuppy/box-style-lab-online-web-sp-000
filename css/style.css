@@ -72,6 +72,6 @@ h4 .indifferent{
   background-image: linear-gradient(to top right, #ffff44, #dddd22);
 }
 
-h4 .dubious {
+h4.dubious {
   background-image: linear-gradient(to top right, #ff6666, #dd4444);
 }
