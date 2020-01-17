@@ -68,7 +68,7 @@ h4.amiable {
   background-image: linear-gradient(to top right, #44cc66, #22aa44);
 }
 
-h4 .indifferent{
+h4.indifferent{
   background-image: linear-gradient(to top right, #ffff44, #dddd22);
 }
 
