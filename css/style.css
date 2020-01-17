@@ -64,7 +64,7 @@ h4 {
   border: solid 2px;
 }
 
-h4 .amiable {
+h4.amiable {
   background-image: linear-gradient(to top right, #44cc66, #22aa44);
 }
 
